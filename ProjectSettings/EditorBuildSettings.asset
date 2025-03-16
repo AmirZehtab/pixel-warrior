@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/menu.unity
+    guid: a5e02452c7cd7bd4db3a80fe13e86459
+  - enabled: 1
+    path: Assets/Scenes/survival.unity
+    guid: 8c9cfa26abfee488c85f1582747f6a02
+  - enabled: 1
+    path: Assets/Scenes/levelchoose.unity
+    guid: d1a3c06b1b16c1c469743cd32f3c2e3d
+  - enabled: 1
+    path: Assets/Scenes/levels/level0.unity
+    guid: d10acc3c88197724da7662bb694f10a2
+  - enabled: 1
+    path: Assets/Scenes/levels/level1.unity
+    guid: 082f70f633a629c4b89fa8b43a35af4d
+  - enabled: 1
+    path: Assets/Scenes/levels/level2.unity
+    guid: 8c57c01e041e6df47bd3fa220bc34cd9
+  - enabled: 1
+    path: Assets/Scenes/levels/level3.unity
+    guid: 3d8cd39564f274c49ba22ee768a09fc8
+  - enabled: 1
+    path: Assets/Scenes/levels/level4.unity
+    guid: cf9e0df916a556040b74c007662792ca
+  - enabled: 1
+    path: Assets/Scenes/levels/level5.unity
+    guid: 6d582cd8e25cd04488e69cfd7d033281
+  m_configObjects:
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
+  m_UseUCBPForAssetBundles: 0
