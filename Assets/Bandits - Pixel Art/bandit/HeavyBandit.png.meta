@@ -1,0 +1,1118 @@
+fileFormatVersion: 2
+guid: 3fa43e6b84e1f7f4892b54a121b896a2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8003195641281004636
+    second: HeavyBandit 1_0
+  - first:
+      213: -2671665789896954282
+    second: HeavyBandit 1_1
+  - first:
+      213: -3127279750594881611
+    second: HeavyBandit 1_2
+  - first:
+      213: -2846693761800074871
+    second: HeavyBandit 1_3
+  - first:
+      213: 8004259589401432486
+    second: HeavyBandit 1_4
+  - first:
+      213: 1170749211160675537
+    second: HeavyBandit 1_5
+  - first:
+      213: -34459734151355028
+    second: HeavyBandit 1_6
+  - first:
+      213: 2128082799753803969
+    second: HeavyBandit 1_7
+  - first:
+      213: -6125132729192505191
+    second: HeavyBandit 1_8
+  - first:
+      213: -3861072882545206951
+    second: HeavyBandit 1_9
+  - first:
+      213: -187215264469768306
+    second: HeavyBandit 1_10
+  - first:
+      213: 8778293766461285100
+    second: HeavyBandit 1_11
+  - first:
+      213: 1789548879160566809
+    second: HeavyBandit 1_12
+  - first:
+      213: 5547725974162876350
+    second: HeavyBandit 1_13
+  - first:
+      213: 6297370348732228761
+    second: HeavyBandit 1_14
+  - first:
+      213: 1647571973505524469
+    second: HeavyBandit 1_15
+  - first:
+      213: -4594199325102104072
+    second: HeavyBandit 1_16
+  - first:
+      213: 7823756258236186705
+    second: HeavyBandit 1_17
+  - first:
+      213: -5254586202239038429
+    second: HeavyBandit 1_18
+  - first:
+      213: -1837650168518711929
+    second: HeavyBandit 1_19
+  - first:
+      213: 8787718885659657955
+    second: HeavyBandit 1_20
+  - first:
+      213: -8430289639508911624
+    second: HeavyBandit 1_21
+  - first:
+      213: -8789073302591796673
+    second: HeavyBandit 1_22
+  - first:
+      213: 3045735334066934003
+    second: HeavyBandit 1_23
+  - first:
+      213: 6261804948454177912
+    second: HeavyBandit 1_24
+  - first:
+      213: 4477947397807103382
+    second: HeavyBandit 1_25
+  - first:
+      213: -8081415137443027205
+    second: HeavyBandit 1_26
+  - first:
+      213: 5179813026650893774
+    second: HeavyBandit 1_27
+  - first:
+      213: 9170935275891735518
+    second: HeavyBandit 1_28
+  - first:
+      213: -5429961826465684908
+    second: HeavyBandit 1_29
+  - first:
+      213: 3344926207755360701
+    second: HeavyBandit 1_30
+  - first:
+      213: 1685165266600641081
+    second: HeavyBandit 1_31
+  - first:
+      213: 8539800649028834868
+    second: HeavyBandit 1_32
+  - first:
+      213: -8625876673002558105
+    second: HeavyBandit 1_33
+  - first:
+      213: -1270438294089523968
+    second: HeavyBandit 1_34
+  - first:
+      213: 2660311480985498902
+    second: HeavyBandit 1_35
+  - first:
+      213: 1758886339464884842
+    second: HeavyBandit 1_36
+  - first:
+      213: -3497520204473955762
+    second: HeavyBandit 1_37
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: HeavyBandit 1_0
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 209
+        width: 24
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4abbd7d87ffeee090800000000000000
+      internalID: -8003195641281004636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeavyBandit 1_1
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 209
+        width: 24
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65ee0a28e165cead0800000000000000
+      internalID: -2671665789896954282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeavyBandit 1_2
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 209
+        width: 24
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b71588c2aba994d0800000000000000
+      internalID: -3127279750594881611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeavyBandit 1_3
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 209
+        width: 24
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98906972b138e78d0800000000000000
+      internalID: -2846693761800074871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeavyBandit 1_4
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 209
+        width: 27
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a1594c20b7d41f60800000000000000
+      internalID: 8004259589401432486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeavyBandit 1_5
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 209
+        width: 27
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d40d4464365f3010800000000000000
+      internalID: 1170749211160675537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeavyBandit 1_6
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 209
+        width: 27
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c65aadaed03958ff0800000000000000
+      internalID: -34459734151355028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeavyBandit 1_7
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 209
+        width: 27
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c8b1f30808788d10800000000000000
+      internalID: 2128082799753803969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeavyBandit 1_8
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 161
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 990ac523c382ffaa0800000000000000
+      internalID: -6125132729192505191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeavyBandit 1_9
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 162
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 959dfff8ba6ba6ac0800000000000000
+      internalID: -3861072882545206951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeavyBandit 1_10
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 161
+        width: 31
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e87afb875b0e66df0800000000000000
+      internalID: -187215264469768306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeavyBandit 1_11
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 160
+        width: 23
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce263f3dba3c2d970800000000000000
+      internalID: 8778293766461285100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeavyBandit 1_12
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 161
+        width: 23
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91460926931c5d810800000000000000
+      internalID: 1789548879160566809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeavyBandit 1_13
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 163
+        width: 23
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb7af21616b7dfc40800000000000000
+      internalID: 5547725974162876350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeavyBandit 1_14
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 161
+        width: 27
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 994234f97f0c46750800000000000000
+      internalID: 6297370348732228761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeavyBandit 1_15
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 161
+        width: 21
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f2afae0bf95dd610800000000000000
+      internalID: 1647571973505524469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeavyBandit 1_16
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 113
+        width: 26
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f123ff0e002e30c0800000000000000
+      internalID: -4594199325102104072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeavyBandit 1_17
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 113
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15048656dd0939c60800000000000000
+      internalID: 7823756258236186705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeavyBandit 1_18
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 113
+        width: 27
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32c8fd560b5f317b0800000000000000
+      internalID: -5254586202239038429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeavyBandit 1_19
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 113
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 785610478ea5f76e0800000000000000
+      internalID: -1837650168518711929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeavyBandit 1_20
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 113
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e64cb564cf34f970800000000000000
+      internalID: 8787718885659657955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeavyBandit 1_21
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 113
+        width: 38
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f95a6b0d38910b80800000000000000
+      internalID: -8430289639508911624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeavyBandit 1_22
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 142
+        width: 31
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3a8526d560f60680800000000000000
+      internalID: -8789073302591796673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeavyBandit 1_23
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 113
+        width: 25
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f05aea3620a44a20800000000000000
+      internalID: 3045735334066934003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeavyBandit 1_24
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 113
+        width: 25
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87cf4659c6666e650800000000000000
+      internalID: 6261804948454177912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeavyBandit 1_25
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 65
+        width: 42
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69d5d21ee6dd42e30800000000000000
+      internalID: 4477947397807103382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeavyBandit 1_26
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 65
+        width: 39
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf66e3aefbb09df80800000000000000
+      internalID: -8081415137443027205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeavyBandit 1_27
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 65
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecda770018462e740800000000000000
+      internalID: 5179813026650893774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeavyBandit 1_28
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 65
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edb30a13b05b54f70800000000000000
+      internalID: 9170935275891735518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeavyBandit 1_29
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 65
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 452e49dec76e4a4b0800000000000000
+      internalID: -5429961826465684908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeavyBandit 1_30
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 65
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db9172de9a09b6e20800000000000000
+      internalID: 3344926207755360701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeavyBandit 1_31
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 65
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 932ce8fa1e8e26710800000000000000
+      internalID: 1685165266600641081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeavyBandit 1_32
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 65
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 436930ac177738670800000000000000
+      internalID: 8539800649028834868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeavyBandit 1_33
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 17
+        width: 28
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76daa552edaba4880800000000000000
+      internalID: -8625876673002558105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeavyBandit 1_34
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 17
+        width: 25
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00d9db34a1f7e5ee0800000000000000
+      internalID: -1270438294089523968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeavyBandit 1_35
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 25
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 615b80072335be420800000000000000
+      internalID: 2660311480985498902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeavyBandit 1_36
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 17
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6277188ec1d86810800000000000000
+      internalID: 1758886339464884842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeavyBandit 1_37
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 17
+        width: 46
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4a049997ef467fc0800000000000000
+      internalID: -3497520204473955762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      HeavyBandit 1_0: -8003195641281004636
+      HeavyBandit 1_1: -2671665789896954282
+      HeavyBandit 1_10: -187215264469768306
+      HeavyBandit 1_11: 8778293766461285100
+      HeavyBandit 1_12: 1789548879160566809
+      HeavyBandit 1_13: 5547725974162876350
+      HeavyBandit 1_14: 6297370348732228761
+      HeavyBandit 1_15: 1647571973505524469
+      HeavyBandit 1_16: -4594199325102104072
+      HeavyBandit 1_17: 7823756258236186705
+      HeavyBandit 1_18: -5254586202239038429
+      HeavyBandit 1_19: -1837650168518711929
+      HeavyBandit 1_2: -3127279750594881611
+      HeavyBandit 1_20: 8787718885659657955
+      HeavyBandit 1_21: -8430289639508911624
+      HeavyBandit 1_22: -8789073302591796673
+      HeavyBandit 1_23: 3045735334066934003
+      HeavyBandit 1_24: 6261804948454177912
+      HeavyBandit 1_25: 4477947397807103382
+      HeavyBandit 1_26: -8081415137443027205
+      HeavyBandit 1_27: 5179813026650893774
+      HeavyBandit 1_28: 9170935275891735518
+      HeavyBandit 1_29: -5429961826465684908
+      HeavyBandit 1_3: -2846693761800074871
+      HeavyBandit 1_30: 3344926207755360701
+      HeavyBandit 1_31: 1685165266600641081
+      HeavyBandit 1_32: 8539800649028834868
+      HeavyBandit 1_33: -8625876673002558105
+      HeavyBandit 1_34: -1270438294089523968
+      HeavyBandit 1_35: 2660311480985498902
+      HeavyBandit 1_36: 1758886339464884842
+      HeavyBandit 1_37: -3497520204473955762
+      HeavyBandit 1_4: 8004259589401432486
+      HeavyBandit 1_5: 1170749211160675537
+      HeavyBandit 1_6: -34459734151355028
+      HeavyBandit 1_7: 2128082799753803969
+      HeavyBandit 1_8: -6125132729192505191
+      HeavyBandit 1_9: -3861072882545206951
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
