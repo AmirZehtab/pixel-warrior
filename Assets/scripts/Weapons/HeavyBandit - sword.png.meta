@@ -1,0 +1,1053 @@
+fileFormatVersion: 2
+guid: d3839753585a6da4b865778654cc2ee6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2397679845755712238
+    second: HeavyBandit - sword_0
+  - first:
+      213: 8924271449015210882
+    second: HeavyBandit - sword_1
+  - first:
+      213: -8755772069765873710
+    second: HeavyBandit - sword_2
+  - first:
+      213: -2044729088287659712
+    second: HeavyBandit - sword_3
+  - first:
+      213: -608740610836814347
+    second: HeavyBandit - sword_4
+  - first:
+      213: 3596382433695809738
+    second: HeavyBandit - sword_5
+  - first:
+      213: -8377774455888489503
+    second: HeavyBandit - sword_6
+  - first:
+      213: 6857032413417816056
+    second: HeavyBandit - sword_7
+  - first:
+      213: 2936433326033593973
+    second: HeavyBandit - sword_8
+  - first:
+      213: 3772079572570106098
+    second: HeavyBandit - sword_9
+  - first:
+      213: 6269167338582819849
+    second: HeavyBandit - sword_10
+  - first:
+      213: 2246833251533333921
+    second: HeavyBandit - sword_11
+  - first:
+      213: 5574376776435063796
+    second: HeavyBandit - sword_12
+  - first:
+      213: 3560030199542435292
+    second: HeavyBandit - sword_13
+  - first:
+      213: 3391078166938828039
+    second: HeavyBandit - sword_14
+  - first:
+      213: 4560477381512652373
+    second: HeavyBandit - sword_15
+  - first:
+      213: 508234919435385772
+    second: HeavyBandit - sword_16
+  - first:
+      213: -6068755692861289023
+    second: HeavyBandit - sword_17
+  - first:
+      213: -1746737993189472188
+    second: HeavyBandit - sword_18
+  - first:
+      213: -8576207571522447588
+    second: HeavyBandit - sword_19
+  - first:
+      213: 1986290281619847149
+    second: HeavyBandit - sword_20
+  - first:
+      213: 1473596805430562114
+    second: HeavyBandit - sword_21
+  - first:
+      213: -629427373485257206
+    second: HeavyBandit - sword_22
+  - first:
+      213: -193174064541587934
+    second: HeavyBandit - sword_23
+  - first:
+      213: -5562872510131823885
+    second: HeavyBandit - sword_24
+  - first:
+      213: 5313182418334131141
+    second: HeavyBandit - sword_25
+  - first:
+      213: -6700376518519676510
+    second: HeavyBandit - sword_26
+  - first:
+      213: 7861316739352137158
+    second: HeavyBandit - sword_27
+  - first:
+      213: 1339171281030190116
+    second: HeavyBandit - sword_28
+  - first:
+      213: -2008098583085614902
+    second: HeavyBandit - sword_29
+  - first:
+      213: 3803465582076301652
+    second: HeavyBandit - sword_30
+  - first:
+      213: -7294903566961574774
+    second: HeavyBandit - sword_31
+  - first:
+      213: -2414474157009995690
+    second: HeavyBandit - sword_32
+  - first:
+      213: -4401897124493608250
+    second: HeavyBandit - sword_33
+  - first:
+      213: 8811801536914004135
+    second: HeavyBandit - sword_34
+  - first:
+      213: 3717767271586794672
+    second: HeavyBandit - sword_35
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: HeavyBandit - sword_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 209
+        width: 30
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee2f163cd15464120800000000000000
+      internalID: 2397679845755712238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeavyBandit - sword_1
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 209
+        width: 30
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28356bd999169db70800000000000000
+      internalID: 8924271449015210882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeavyBandit - sword_2
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 209
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2df715f41bf3d7680800000000000000
+      internalID: -8755772069765873710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeavyBandit - sword_3
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 209
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 049a4b64ab9af93e0800000000000000
+      internalID: -2044729088287659712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeavyBandit - sword_4
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 209
+        width: 36
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f5a7b2c3a15d87f0800000000000000
+      internalID: -608740610836814347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeavyBandit - sword_5
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 209
+        width: 27
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac0c4ecd4cae8e130800000000000000
+      internalID: 3596382433695809738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeavyBandit - sword_6
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 209
+        width: 27
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e3dc6c058a2cbb80800000000000000
+      internalID: -8377774455888489503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeavyBandit - sword_7
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 209
+        width: 27
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ffbb1f56a2192f50800000000000000
+      internalID: 6857032413417816056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeavyBandit - sword_8
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 161
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 576e9d85d8e40c820800000000000000
+      internalID: 2936433326033593973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeavyBandit - sword_9
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 162
+        width: 31
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f86c8bc26e195430800000000000000
+      internalID: 3772079572570106098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeavyBandit - sword_10
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 161
+        width: 32
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 904c5bd9a7e800750800000000000000
+      internalID: 6269167338582819849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeavyBandit - sword_11
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 160
+        width: 31
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a52e2320fa5e2f10800000000000000
+      internalID: 2246833251533333921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeavyBandit - sword_12
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 161
+        width: 31
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fb5993d42a2c5d40800000000000000
+      internalID: 5574376776435063796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeavyBandit - sword_13
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 163
+        width: 33
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cddc369ca94c76130800000000000000
+      internalID: 3560030199542435292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeavyBandit - sword_14
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 161
+        width: 35
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70db8f940a78f0f20800000000000000
+      internalID: 3391078166938828039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeavyBandit - sword_15
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 161
+        width: 31
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 556e34b14021a4f30800000000000000
+      internalID: 4560477381512652373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeavyBandit - sword_16
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 113
+        width: 33
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cab356b67fc9d0700800000000000000
+      internalID: 508234919435385772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeavyBandit - sword_17
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 113
+        width: 27
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cd8f5ad9d277cba0800000000000000
+      internalID: -6068755692861289023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeavyBandit - sword_18
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 113
+        width: 27
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4484340cc0752c7e0800000000000000
+      internalID: -1746737993189472188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeavyBandit - sword_19
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 113
+        width: 26
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c17936307a03bf880800000000000000
+      internalID: -8576207571522447588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeavyBandit - sword_20
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 113
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de7f2c0cc78b09b10800000000000000
+      internalID: 1986290281619847149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeavyBandit - sword_21
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 113
+        width: 38
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24dc6d1bc74437410800000000000000
+      internalID: 1473596805430562114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeavyBandit - sword_22
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 113
+        width: 35
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0e018f7323d347f0800000000000000
+      internalID: -629427373485257206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeavyBandit - sword_23
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 113
+        width: 25
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2262e273635b15df0800000000000000
+      internalID: -193174064541587934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeavyBandit - sword_24
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 65
+        width: 42
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fa9ec6ece4bcc2b0800000000000000
+      internalID: -5562872510131823885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeavyBandit - sword_25
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 65
+        width: 39
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c328af42473cb940800000000000000
+      internalID: 5313182418334131141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeavyBandit - sword_26
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 65
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a124487e0b7303a0800000000000000
+      internalID: -6700376518519676510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeavyBandit - sword_27
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 65
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cd8ae36ce1091d60800000000000000
+      internalID: 7861316739352137158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeavyBandit - sword_28
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 65
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42495335f21b59210800000000000000
+      internalID: 1339171281030190116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeavyBandit - sword_29
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 65
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac877316afcc124e0800000000000000
+      internalID: -2008098583085614902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeavyBandit - sword_30
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 65
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45115179bcf98c430800000000000000
+      internalID: 3803465582076301652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeavyBandit - sword_31
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 65
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8c768c1bdb43ca90800000000000000
+      internalID: -7294903566961574774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeavyBandit - sword_32
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 17
+        width: 28
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 658fe00fb801e7ed0800000000000000
+      internalID: -2414474157009995690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeavyBandit - sword_33
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 17
+        width: 26
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cabeb433e159e2c0800000000000000
+      internalID: -4401897124493608250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeavyBandit - sword_34
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 17
+        width: 24
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a810079fcec94a70800000000000000
+      internalID: 8811801536914004135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeavyBandit - sword_35
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 17
+        width: 46
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bc018cc2a9289330800000000000000
+      internalID: 3717767271586794672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      HeavyBandit - sword_0: 2397679845755712238
+      HeavyBandit - sword_1: 8924271449015210882
+      HeavyBandit - sword_10: 6269167338582819849
+      HeavyBandit - sword_11: 2246833251533333921
+      HeavyBandit - sword_12: 5574376776435063796
+      HeavyBandit - sword_13: 3560030199542435292
+      HeavyBandit - sword_14: 3391078166938828039
+      HeavyBandit - sword_15: 4560477381512652373
+      HeavyBandit - sword_16: 508234919435385772
+      HeavyBandit - sword_17: -6068755692861289023
+      HeavyBandit - sword_18: -1746737993189472188
+      HeavyBandit - sword_19: -8576207571522447588
+      HeavyBandit - sword_2: -8755772069765873710
+      HeavyBandit - sword_20: 1986290281619847149
+      HeavyBandit - sword_21: 1473596805430562114
+      HeavyBandit - sword_22: -629427373485257206
+      HeavyBandit - sword_23: -193174064541587934
+      HeavyBandit - sword_24: -5562872510131823885
+      HeavyBandit - sword_25: 5313182418334131141
+      HeavyBandit - sword_26: -6700376518519676510
+      HeavyBandit - sword_27: 7861316739352137158
+      HeavyBandit - sword_28: 1339171281030190116
+      HeavyBandit - sword_29: -2008098583085614902
+      HeavyBandit - sword_3: -2044729088287659712
+      HeavyBandit - sword_30: 3803465582076301652
+      HeavyBandit - sword_31: -7294903566961574774
+      HeavyBandit - sword_32: -2414474157009995690
+      HeavyBandit - sword_33: -4401897124493608250
+      HeavyBandit - sword_34: 8811801536914004135
+      HeavyBandit - sword_35: 3717767271586794672
+      HeavyBandit - sword_4: -608740610836814347
+      HeavyBandit - sword_5: 3596382433695809738
+      HeavyBandit - sword_6: -8377774455888489503
+      HeavyBandit - sword_7: 6857032413417816056
+      HeavyBandit - sword_8: 2936433326033593973
+      HeavyBandit - sword_9: 3772079572570106098
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
