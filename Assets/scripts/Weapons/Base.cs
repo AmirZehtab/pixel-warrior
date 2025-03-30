@@ -1,15 +1,16 @@
 using UnityEngine;
 
-public class Base : MonoBehaviour
+public class PlayerStateSwitcher : MonoBehaviour
 {
     public Sprite normalSprite;           
-        public Sprite armoredSprite;          
+    public Sprite armoredSprite;          
     public RuntimeAnimatorController normalController;  
     public RuntimeAnimatorController armoredController;  
-
     private SpriteRenderer spriteRenderer;  
     private Animator animator;             
-    private bool isArmored = false;        
+    private bool isArmored = false;   
+    public Enemydamage _enemydamage;
+    
     void Start()
     {
         spriteRenderer = GetComponent<SpriteRenderer>();
@@ -25,6 +26,16 @@ public class Base : MonoBehaviour
 
             
             spriteRenderer.sprite = isArmored ? armoredSprite : normalSprite;
+
+            if(isArmored){
+                _enemydamage.damage = 30;
+                _enemydamage.cooldown = 1.3f;
+                _enemydamage.w = false;
+            }else if(!isArmored){
+                _enemydamage.damage = 20;
+                _enemydamage.cooldown = 0.9f;
+                _enemydamage.w = true;
+            }
 
             
             animator.runtimeAnimatorController = isArmored ? armoredController : normalController;

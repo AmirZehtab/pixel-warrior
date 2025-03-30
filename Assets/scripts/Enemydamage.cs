@@ -1,19 +1,21 @@
 using System.Collections;
 using UnityEngine;
 
-public class enemydamage : MonoBehaviour
+public class Enemydamage : MonoBehaviour
 {
-    public int damage = 20;
+    public int damage;
     public float range = 1f;
     public Transform hitrange;
     public LayerMask enemylayer;
-    public float cooldown = 1f;          
+    public float cooldown;          
     private float cooldowntime = 0f; 
     private Animator anim;
     public Collider2D[] hitenem;
-    public AudioClip attacksfx;
+    public AudioClip swordsound;
+    public AudioClip macesound;
     public AudioSource sfx;
     public AudioClip hits;
+    public bool w = true;
     
     
     
@@ -32,14 +34,13 @@ public class enemydamage : MonoBehaviour
              StartCoroutine(attack());
             anim.SetTrigger("Attack");
              cooldowntime = 0;
-            
+            if(w){
+            sfx.PlayOneShot(macesound);
+           }else{
+            sfx.PlayOneShot(swordsound);
+            }
            }
-           
-
-            
         }
-        
-        
  }
          
     
@@ -49,7 +50,8 @@ public class enemydamage : MonoBehaviour
     WaitForSeconds(0.4f);
 
         hitenem = Physics2D.OverlapCircleAll(hitrange.position, range, enemylayer);
-        sfx.PlayOneShot(attacksfx);
+        
+        
         foreach (Collider2D enemy in hitenem)
         {
             
