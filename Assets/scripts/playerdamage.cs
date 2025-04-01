@@ -38,7 +38,7 @@ public class playerdamage : MonoBehaviour
     public bool isplayer()
     {
         
-        RaycastHit2D hit = Physics2D.BoxCast(box.position, new Vector2(0.5f, 0.5f), 0f, Vector2.left, 0.4f, layer);
+        RaycastHit2D hit = Physics2D.BoxCast(box.position, new Vector2(0.5f, 0.5f), 0f, Vector2.left, 0.8f, layer);
 
         
 
