@@ -1,4 +1,5 @@
 using UnityEngine;
+using UnityEngine.UI;
 
 public class PlayerStateSwitcher : MonoBehaviour
 {
@@ -10,11 +11,18 @@ public class PlayerStateSwitcher : MonoBehaviour
     private Animator animator;             
     private bool isArmored = false;   
     public Enemydamage _enemydamage;
-    
+    public Image sword;
+    public Image mace;
+    public AudioClip Changeweopon;
+    public AudioSource sfx;
+
+
     void Start()
     {
         spriteRenderer = GetComponent<SpriteRenderer>();
         animator = GetComponent<Animator>();
+        sword.enabled = false;
+
     }
 
     void Update()
@@ -23,6 +31,7 @@ public class PlayerStateSwitcher : MonoBehaviour
         if (Input.GetKeyDown(KeyCode.Q))
         {
             isArmored = !isArmored;
+            sfx.PlayOneShot(Changeweopon);
 
             
             spriteRenderer.sprite = isArmored ? armoredSprite : normalSprite;
@@ -31,10 +40,16 @@ public class PlayerStateSwitcher : MonoBehaviour
                 _enemydamage.damage = 30;
                 _enemydamage.cooldown = 1.3f;
                 _enemydamage.w = false;
-            }else if(!isArmored){
+                sword.enabled = true;
+                mace.enabled = false;
+
+            }
+            else if(!isArmored){
                 _enemydamage.damage = 20;
                 _enemydamage.cooldown = 0.9f;
                 _enemydamage.w = true;
+                sword.enabled = false;
+                mace.enabled = true;
             }
 
             

@@ -8,7 +8,7 @@ public class Enemydamage : MonoBehaviour
     public Transform hitrange;
     public LayerMask enemylayer;
     public float cooldown;          
-    private float cooldowntime = 0f; 
+    private float cooldowntime; 
     private Animator anim;
     public Collider2D[] hitenem;
     public AudioClip swordsound;
@@ -26,43 +26,51 @@ public class Enemydamage : MonoBehaviour
         
     }
 
-    void Update(){
+    void Update()
+    {       
         cooldowntime += Time.deltaTime;
 
-        if(Input.GetKeyDown(KeyCode.Space)){
-           if (cooldowntime >= cooldown){
-             StartCoroutine(attack());
-            anim.SetTrigger("Attack");
-             cooldowntime = 0;
-            if(w){
-            sfx.PlayOneShot(macesound);
-           }else{
-            sfx.PlayOneShot(swordsound);
-            }
-           }
-        }
- }
-         
-    
-
-    IEnumerator attack(){
-    yield return new 
-    WaitForSeconds(0.4f);
-
-        hitenem = Physics2D.OverlapCircleAll(hitrange.position, range, enemylayer);
-        
-        
-        foreach (Collider2D enemy in hitenem)
+        if (Input.GetKeyDown(KeyCode.Space))
         {
-            
-            enemy.GetComponentInChildren<playerdamage>().cooldowntime = 0;
-            enemy.GetComponent<enemyhealth>().Takedamage(damage, true);
-            sfx.PlayOneShot(hits);
+            if (cooldowntime >= cooldown)
+            {
+                StartCoroutine(attack());
+                anim.SetTrigger("Attack");
+                cooldowntime = 0;
 
-            
-            
-                
-            
+            }
         }
     }
+
+
+        IEnumerator attack()
+        {
+            yield return new
+            WaitForSeconds(0.4f);
+            if (w)
+            {
+                sfx.PlayOneShot(macesound);
+            }
+            else
+            {
+                sfx.PlayOneShot(swordsound);
+            }
+
+            hitenem = Physics2D.OverlapCircleAll(hitrange.position, range + 0.5f, enemylayer);
+
+
+            foreach (Collider2D enemy in hitenem)
+            {
+
+                //enemy.GetComponentInChildren<playerdamage>().cooldownTimer = 0;
+                enemy.GetComponent<enemyhealth>().Takedamage(damage, true);
+                sfx.PlayOneShot(hits);
+
+
+
+
+
+            }
+        }
+    
 }

@@ -1,14 +1,14 @@
-using UnityEngine;
+﻿using UnityEngine;
 using System.Collections;
-
 
 public class playerdamage : MonoBehaviour
 {
     public int damage = 20;
-    public LayerMask layer;               
-    public Transform box;                 
-    public float cooldown = 1f;          
-    public float cooldowntime;     
+    public LayerMask layer;
+    public Transform box;
+    public float cooldown = 3f;
+    public float cooldownTimer = 0f;
+
     private Animator anim;
     public AudioClip attacksfx;
     public AudioSource sfxs;
@@ -17,47 +17,34 @@ public class playerdamage : MonoBehaviour
     {
         anim = transform.parent.GetComponent<Animator>();
         box = GetComponent<Transform>();
-       
     }
 
     void Update()
     {
-        cooldowntime += Time.deltaTime;
+        cooldownTimer -= Time.deltaTime;
 
-        if (isplayer())
+        if (cooldownTimer <= 0f)
         {
-            if (cooldowntime >= cooldown)
+            // فقط اگر پلیر هنوز داخل محدوده هست، حمله کن
+            RaycastHit2D hit = Physics2D.BoxCast(box.position, new Vector2(1f, 1f), 0f, Vector2.left, 0.5f, layer);
+            if (hit.collider != null && hit.collider.CompareTag("Player"))
             {
-                StartCoroutine(attack());
                 anim.SetTrigger("Attack");
-               
+                StartCoroutine(Attack(hit.collider.gameObject)); // دشمن دقیقاً به اون آبجکت پلیر حمله می‌کنه
+                cooldownTimer = cooldown; // فوراً ریست کن
             }
         }
     }
 
-    public bool isplayer()
+    IEnumerator Attack(GameObject player)
     {
-        
-        RaycastHit2D hit = Physics2D.BoxCast(box.position, new Vector2(0.5f, 0.5f), 0f, Vector2.left, 0.8f, layer);
-
-        
-
-        return hit.collider != null && hit.collider.CompareTag("Player");
-    }
-
-    IEnumerator attack()
-    {
-       
-        yield return new WaitForSeconds(0.5f);
-        if(cooldowntime >= cooldown){
+        yield return new WaitForSeconds(0.5f); // برای هماهنگی با انیمیشن
+        RaycastHit2D hit = Physics2D.BoxCast(box.position, new Vector2(1f, 1f), 0f, Vector2.left, 0.5f, layer);
         sfxs.Play();
-        RaycastHit2D hit = Physics2D.BoxCast(box.position, new Vector2(1f, 1f), 0f, Vector2.left, 1f, layer);
 
-        if (hit.collider != null && hit.collider.CompareTag("Player"))
+        if (player != null && hit.collider != null && hit.collider.CompareTag("Player"))
         {
-            
-            hit.collider.GetComponent<playerhealth>().Damagepl(damage,true);
-             
-        }cooldowntime = 0f;}
+            player.GetComponent<playerhealth>()?.Damagepl(damage, true);
+        }
     }
 }

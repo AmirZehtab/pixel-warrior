@@ -206,7 +206,7 @@ MonoBehaviour:
     m_Bits: 128
   box: {fileID: 3185278}
   cooldown: 1
-  cooldowntime: 0
+  cooldownTimer: 0
   attacksfx: {fileID: 8300000, guid: 3b53aea82fcf3a34ca06506aeaba0d83, type: 3}
   sfxs: {fileID: 292756165}
 --- !u!1 &7866353
@@ -429,7 +429,7 @@ MonoBehaviour:
     m_Bits: 128
   box: {fileID: 84718912}
   cooldown: 1
-  cooldowntime: 0
+  cooldownTimer: 0
   attacksfx: {fileID: 8300000, guid: 3b53aea82fcf3a34ca06506aeaba0d83, type: 3}
   sfxs: {fileID: 292756165}
 --- !u!1 &143032533
@@ -2507,7 +2507,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: bb3c773c7bfcf4d4380deda026ff825e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  nextSceneName: level3
+  nextSceneName: level2s
   portalOn: {fileID: 21300000, guid: a250755ac1951bb4fa0ea9b06a3408a8, type: 3}
   portalOff: {fileID: 21300000, guid: ecb1aaf3f627cd44e80d674bfd9228f2, type: 3}
 --- !u!212 &505620376
@@ -2778,7 +2778,7 @@ MonoBehaviour:
     m_Bits: 128
   box: {fileID: 579928158}
   cooldown: 1
-  cooldowntime: 0
+  cooldownTimer: 0
   attacksfx: {fileID: 8300000, guid: 3b53aea82fcf3a34ca06506aeaba0d83, type: 3}
   sfxs: {fileID: 292756165}
 --- !u!1 &602847108
@@ -2868,7 +2868,7 @@ MonoBehaviour:
     m_Bits: 128
   box: {fileID: 602847109}
   cooldown: 1
-  cooldowntime: 0
+  cooldownTimer: 0
   attacksfx: {fileID: 8300000, guid: 3b53aea82fcf3a34ca06506aeaba0d83, type: 3}
   sfxs: {fileID: 292756165}
 --- !u!1 &633295368
@@ -3097,7 +3097,7 @@ MonoBehaviour:
     m_Bits: 128
   box: {fileID: 638896931}
   cooldown: 1
-  cooldowntime: 0
+  cooldownTimer: 0
   attacksfx: {fileID: 8300000, guid: 3b53aea82fcf3a34ca06506aeaba0d83, type: 3}
   sfxs: {fileID: 292756165}
 --- !u!1 &669383399
@@ -4124,7 +4124,7 @@ MonoBehaviour:
     m_Bits: 128
   box: {fileID: 970012854}
   cooldown: 1
-  cooldowntime: 0
+  cooldownTimer: 0
   attacksfx: {fileID: 8300000, guid: 3b53aea82fcf3a34ca06506aeaba0d83, type: 3}
   sfxs: {fileID: 292756165}
 --- !u!1 &981737358
@@ -4593,7 +4593,7 @@ MonoBehaviour:
     m_Bits: 128
   box: {fileID: 1024646131}
   cooldown: 1
-  cooldowntime: 0
+  cooldownTimer: 0
   attacksfx: {fileID: 8300000, guid: 3b53aea82fcf3a34ca06506aeaba0d83, type: 3}
   sfxs: {fileID: 292756165}
 --- !u!1 &1026264591
@@ -5910,7 +5910,7 @@ MonoBehaviour:
     m_Bits: 128
   box: {fileID: 1297486561}
   cooldown: 1
-  cooldowntime: 0
+  cooldownTimer: 0
   attacksfx: {fileID: 8300000, guid: 3b53aea82fcf3a34ca06506aeaba0d83, type: 3}
   sfxs: {fileID: 292756165}
 --- !u!1 &1307229786
@@ -6219,7 +6219,7 @@ MonoBehaviour:
     m_Bits: 128
   box: {fileID: 1320434251}
   cooldown: 1
-  cooldowntime: 0
+  cooldownTimer: 0
   attacksfx: {fileID: 8300000, guid: 3b53aea82fcf3a34ca06506aeaba0d83, type: 3}
   sfxs: {fileID: 292756165}
 --- !u!1 &1368139579
@@ -6384,7 +6384,7 @@ MonoBehaviour:
     m_Bits: 128
   box: {fileID: 1382542565}
   cooldown: 1
-  cooldowntime: 0
+  cooldownTimer: 0
   attacksfx: {fileID: 8300000, guid: 3b53aea82fcf3a34ca06506aeaba0d83, type: 3}
   sfxs: {fileID: 292756165}
 --- !u!1 &1385942401
@@ -6996,7 +6996,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: bb3c773c7bfcf4d4380deda026ff825e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  nextSceneName: level3
+  nextSceneName: level2s
   portalOn: {fileID: 21300000, guid: a250755ac1951bb4fa0ea9b06a3408a8, type: 3}
   portalOff: {fileID: 21300000, guid: ecb1aaf3f627cd44e80d674bfd9228f2, type: 3}
 --- !u!61 &1434200951

@@ -5254,6 +5254,14 @@ PrefabInstance:
       propertyPath: healthbar
       value: 
       objectReference: {fileID: 1785519772}
+    - target: {fileID: 5134499068924907592, guid: b4a49876638c91f45a20ebbceb1a8a24, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.614
+      objectReference: {fileID: 0}
+    - target: {fileID: 5134499068924907592, guid: b4a49876638c91f45a20ebbceb1a8a24, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.11
+      objectReference: {fileID: 0}
     - target: {fileID: 5236006492987166854, guid: b4a49876638c91f45a20ebbceb1a8a24, type: 3}
       propertyPath: m_LocalPosition.x
       value: 2.0361
