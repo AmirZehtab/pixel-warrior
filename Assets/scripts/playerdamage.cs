@@ -25,26 +25,26 @@ public class playerdamage : MonoBehaviour
 
         if (cooldownTimer <= 0f)
         {
-            // فقط اگر پلیر هنوز داخل محدوده هست، حمله کن
+            
             RaycastHit2D hit = Physics2D.BoxCast(box.position, new Vector2(1f, 1f), 0f, Vector2.left, 0.5f, layer);
             if (hit.collider != null && hit.collider.CompareTag("Player"))
             {
                 anim.SetTrigger("Attack");
-                StartCoroutine(Attack(hit.collider.gameObject)); // دشمن دقیقاً به اون آبجکت پلیر حمله می‌کنه
-                cooldownTimer = cooldown; // فوراً ریست کن
+                StartCoroutine(Attack(hit.collider.gameObject));
+                cooldownTimer = cooldown;
             }
         }
     }
 
     IEnumerator Attack(GameObject player)
     {
-        yield return new WaitForSeconds(0.5f); // برای هماهنگی با انیمیشن
+        yield return new WaitForSeconds(0.5f);
         RaycastHit2D hit = Physics2D.BoxCast(box.position, new Vector2(1f, 1f), 0f, Vector2.left, 0.5f, layer);
         sfxs.Play();
 
         if (player != null && hit.collider != null && hit.collider.CompareTag("Player"))
         {
-            player.GetComponent<playerhealth>()?.Damagepl(damage, true);
+            player.GetComponent<playerhealth>().Damagepl(damage, true);
         }
     }
 }

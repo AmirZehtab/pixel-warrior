@@ -55,9 +55,10 @@ public class playerhealth : MonoBehaviour
         if(!d){
         health = health - amount;
         healthbar.sethp(health);
-        if(a == true){
             anim.SetTrigger("hurt");
             sfx.PlayOneShot(damagesfx);
+        if(a == true){
+            
             a = false;
         }}
         

@@ -1140,7 +1140,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   menus: {fileID: 451726384}
   sfx: {fileID: 2017937140}
-  background: {fileID: 8300000, guid: 54d73a3e29ed45844bbbc9fd3d4362ae, type: 3}
+  background: {fileID: 8300000, guid: 0e7cd97a571bdda4f9a76f7feef72547, type: 3}
   button: {fileID: 8300000, guid: 069c3a5a9b3dbf947a8f5d2e77bcd30c, type: 3}
   hovers: {fileID: 8300000, guid: da21c15a0a8c8bb4487d04b11bd6ce2b, type: 3}
 --- !u!4 &267035777
