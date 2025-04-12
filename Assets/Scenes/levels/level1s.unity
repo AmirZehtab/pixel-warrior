@@ -789,7 +789,7 @@ MonoBehaviour:
   m_OnValueChanged:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 0}
+      - m_Target: {fileID: 1392200549}
         m_TargetAssemblyTypeName: volumesettings, Assembly-CSharp
         m_MethodName: setsfx
         m_Mode: 1
@@ -1088,8 +1088,8 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 0}
-        m_TargetAssemblyTypeName: menu, Assembly-CSharp
+      - m_Target: {fileID: 1132331421}
+        m_TargetAssemblyTypeName: m1, Assembly-CSharp
         m_MethodName: QuitGame
         m_Mode: 1
         m_Arguments:
@@ -1228,7 +1228,7 @@ MonoBehaviour:
   m_OnValueChanged:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 0}
+      - m_Target: {fileID: 1392200549}
         m_TargetAssemblyTypeName: volumesettings, Assembly-CSharp
         m_MethodName: setmusic
         m_Mode: 1
@@ -2643,6 +2643,51 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1117718955}
   m_CullTransparentMesh: 1
+--- !u!1 &1132331420
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1132331422}
+  - component: {fileID: 1132331421}
+  m_Layer: 0
+  m_Name: manage
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &1132331421
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1132331420}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 630224efa7caa5141ad6b13ccb4f144f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  menuPanel: {fileID: 1624767830}
+--- !u!4 &1132331422
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1132331420}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 921.9809, y: 674.3193, z: -8.057869}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1205403824
 GameObject:
   m_ObjectHideFlags: 0
@@ -2799,7 +2844,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: bb3c773c7bfcf4d4380deda026ff825e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  nextSceneName: level3
+  nextSceneName: level2
   portalOn: {fileID: 21300000, guid: a250755ac1951bb4fa0ea9b06a3408a8, type: 3}
   portalOff: {fileID: 21300000, guid: ecb1aaf3f627cd44e80d674bfd9228f2, type: 3}
 --- !u!212 &1228148490
@@ -3288,8 +3333,7 @@ MonoBehaviour:
     sentences:
     - 'Devil : hello boy!'
     - 'you : devil?'
-    - 'devil : '
-    - 
+    - 'devil : i dont let you destroy my empire.'
 --- !u!114 &1422451972
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -3892,8 +3936,8 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 0}
-        m_TargetAssemblyTypeName: menu, Assembly-CSharp
+      - m_Target: {fileID: 1132331421}
+        m_TargetAssemblyTypeName: m1, Assembly-CSharp
         m_MethodName: PlayGame
         m_Mode: 1
         m_Arguments:
@@ -4718,7 +4762,23 @@ PrefabInstance:
     - target: {fileID: 4184923398074217592, guid: b4a49876638c91f45a20ebbceb1a8a24, type: 3}
       propertyPath: healthbar
       value: 
-      objectReference: {fileID: 0}
+      objectReference: {fileID: 625930496}
+    - target: {fileID: 4535576553000445322, guid: b4a49876638c91f45a20ebbceb1a8a24, type: 3}
+      propertyPath: sfx
+      value: 
+      objectReference: {fileID: 317398027}
+    - target: {fileID: 4535576553000445322, guid: b4a49876638c91f45a20ebbceb1a8a24, type: 3}
+      propertyPath: mace
+      value: 
+      objectReference: {fileID: 1117718957}
+    - target: {fileID: 4535576553000445322, guid: b4a49876638c91f45a20ebbceb1a8a24, type: 3}
+      propertyPath: sword
+      value: 
+      objectReference: {fileID: 1257970288}
+    - target: {fileID: 4535576553000445322, guid: b4a49876638c91f45a20ebbceb1a8a24, type: 3}
+      propertyPath: Changeweopon
+      value: 
+      objectReference: {fileID: 8300000, guid: 1c83978b47995544f8271432839ff79a, type: 3}
     - target: {fileID: 5236006492987166854, guid: b4a49876638c91f45a20ebbceb1a8a24, type: 3}
       propertyPath: m_LocalPosition.x
       value: -17.38
@@ -5734,3 +5794,4 @@ SceneRoots:
   - {fileID: 1275952256}
   - {fileID: 1608182646}
   - {fileID: 653987382}
+  - {fileID: 1132331422}

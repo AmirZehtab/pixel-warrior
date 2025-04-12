@@ -2843,7 +2843,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 22.4212, y: 0}
+  m_AnchoredPosition: {x: 22.421143, y: 0}
   m_SizeDelta: {x: 707.2632, y: 360}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &492248066
@@ -6455,10 +6455,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   dialogue:
     sentences:
-    - 'Devil : hello boy!'
-    - 'you : devil?'
-    - devil :i dont let you destroy my empire. defeat me if you can...
-    - 'you : heh!!!!! lets begin.'
+    - 'devil : this is the end . rest in piece knight.'
 --- !u!114 &1504054246
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -8038,7 +8035,23 @@ PrefabInstance:
     - target: {fileID: 4184923398074217592, guid: b4a49876638c91f45a20ebbceb1a8a24, type: 3}
       propertyPath: healthbar
       value: 
-      objectReference: {fileID: 0}
+      objectReference: {fileID: 2053020876}
+    - target: {fileID: 4535576553000445322, guid: b4a49876638c91f45a20ebbceb1a8a24, type: 3}
+      propertyPath: sfx
+      value: 
+      objectReference: {fileID: 633798834}
+    - target: {fileID: 4535576553000445322, guid: b4a49876638c91f45a20ebbceb1a8a24, type: 3}
+      propertyPath: mace
+      value: 
+      objectReference: {fileID: 1755893929}
+    - target: {fileID: 4535576553000445322, guid: b4a49876638c91f45a20ebbceb1a8a24, type: 3}
+      propertyPath: sword
+      value: 
+      objectReference: {fileID: 303670163}
+    - target: {fileID: 4535576553000445322, guid: b4a49876638c91f45a20ebbceb1a8a24, type: 3}
+      propertyPath: Changeweopon
+      value: 
+      objectReference: {fileID: 8300000, guid: 1c83978b47995544f8271432839ff79a, type: 3}
     - target: {fileID: 5236006492987166854, guid: b4a49876638c91f45a20ebbceb1a8a24, type: 3}
       propertyPath: m_LocalPosition.x
       value: 403.1
